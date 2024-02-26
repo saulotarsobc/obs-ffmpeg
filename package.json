@@ -9,7 +9,7 @@
     "typescript": "^5.3.3"
   },
   "dependencies": {
-    "obs-websocket-js": "^5.0.4",
+    "obs-websocket-js": "^5.0.5",
     "ws": "^8.16.0"
   }
 }
