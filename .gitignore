@@ -1,0 +1,4 @@
+/node_modules
+/screenshots/**/*
+/output.mp4
+/dist
